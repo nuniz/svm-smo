@@ -1,8 +1,10 @@
 # SVM Classifier with SMO Algorithm
 
-This repository contains a Python implementation of a Support Vector Machine (SVM) classifier using the Sequential Minimal Optimization (SMO) algorithm [1] by Platt, using NumPy.
+This repository contains a Python implementation of a Support Vector Machine (SVM) classifier using the Sequential Minimal Optimization (SMO) algorithm [[1]] by Platt, using NumPy.
 
 [1]: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-98-14.pdf.
+<br/>
+![svm](svm.png)
 
 ## Installation
 
